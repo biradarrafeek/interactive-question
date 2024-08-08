@@ -14,6 +14,6 @@
     The nextQuestion function validates the input, stores the answer in the local storage, and displays the next question or the title screen accordingly.
     The showTitleScreen function hides the question container and shows the title screen.
 
- # Live
+ Live
 
-    https://biradarrafeek.github.io/interactive-question/
+    https://biradarrafeek.github.io/interactive-question/ 
