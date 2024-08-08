@@ -11,5 +11,5 @@
 # JavaScript Functionality:
 
     The script checks if the questions have been answered before by checking the local storage. If yes, it directly shows the title screen.
-    The **nextQuestion** function validates the input, stores the answer in the local storage, and displays the next question or the title screen accordingly.
+    The nextQuestion function validates the input, stores the answer in the local storage, and displays the next question or the title screen accordingly.
     The showTitleScreen function hides the question container and shows the title screen.
